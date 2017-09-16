@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MA5532-AE)(type KiCad)(uri "$(KIPRJMOD)/MA5532-AE.pretty")(options "")(descr ""))
+)
