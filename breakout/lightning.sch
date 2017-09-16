@@ -178,7 +178,7 @@ U 1 1 59960474
 P 3350 2300
 F 0 "J1" H 3350 2450 50  0000 C CNN
 F 1 "CONN_01X02" V 3450 2300 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x02_Pitch1.27mm" H 3350 2300 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm" H 3350 2300 50  0001 C CNN
 F 3 "" H 3350 2300 50  0001 C CNN
 	1    3350 2300
 	0    -1   -1   0   
@@ -362,7 +362,7 @@ U 1 1 59961413
 P 8250 3650
 F 0 "J3" H 8250 4050 50  0000 C CNN
 F 1 "CONN_01X07" V 8350 3650 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x07_Pitch1.27mm" H 8250 3650 50  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x07_Pitch2.54mm" H 8250 3650 50  0001 C CNN
 F 3 "" H 8250 3650 50  0001 C CNN
 	1    8250 3650
 	1    0    0    -1  
